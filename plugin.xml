@@ -2,8 +2,8 @@
 
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
            id="org.apache.cordova.core.device"
-      version="0.1.0">
-    <name>Device</name>
+           version="0.1.0">
+    <name>device</name>
 
     <js-module src="www/device.js" name="device">
         <clobbers target="device" />
